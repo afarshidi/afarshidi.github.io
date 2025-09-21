@@ -2,3 +2,20 @@ body {
   background-color: #f5f5f5;
   color: #333;
 }
+nav {
+  background: #007acc;
+  padding: 1em;
+  border-radius: 8px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 1em;
+  font-weight: bold;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+main {
+  margin-top: 2em;
+}
