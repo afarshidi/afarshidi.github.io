@@ -1,0 +1,5 @@
+title: "My Blog"
+description: "Thoughts, Projects, and Journals"
+theme: minima
+baseurl: "" # leave empty for user.github.io
+url: "https://afarshidi.github.io" # your site URL
