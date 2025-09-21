@@ -1,6 +1,9 @@
 ---
 layout: post
-title: "My First Post"
+title: "My First Technical Post"
 date: 2025-09-21
+categories: [technical]
 ---
-Hello world, this is my first real blog post!
+
+This is a technical deep dive into my project.
+
